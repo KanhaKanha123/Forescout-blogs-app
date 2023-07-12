@@ -36,7 +36,13 @@ export const AddNewComments: FC<AddNewCommentsTypes> = ({ blogId, showHideAddNew
                 return;
             }
 
-            //here we can make an api call to save the new comment to db for blog id
+            /* here we can make an api call to save the new comment to db for blog id
+
+           const result= await axios.post('/postNewComments',{blogId:blogId,commentText:newCommentText},Header-Options...);
+           if(result.status.Ok){
+            //success and reload the page to get latest comments from server. otherwise ill go to catch block.
+           }
+             */
             console.log('new comment: ', `blogId: ${blogId}, commentText: ${newCommentText}`);
 
             //clear the popup
