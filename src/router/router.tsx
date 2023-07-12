@@ -1,5 +1,5 @@
 import { createBrowserRouter } from 'react-router-dom';
-import ErrorBoundary from '../error-boundry/error-boundary';
+import ErrorBoundary from '../error-boundary/error-boundary';
 import { Home } from '../pages';
 import { BlogDetailsPage } from '../pages';
 export const router = createBrowserRouter([
