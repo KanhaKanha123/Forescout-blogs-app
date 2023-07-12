@@ -1,0 +1,230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogsList component renders BlogsList component proper 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-gKkivs bgfSMQ"
+      >
+        <div
+          aria-label="card containing the blog data"
+          backgroundcolor="#f4f4f4"
+          class="sc-bdDrbm fvGOqo"
+          data-testid="Card_1"
+          height="200px"
+          padding="15px"
+          width="300px"
+        >
+          <div
+            class="sc-iCEALv dDRKGZ"
+          >
+            <span
+              aria-label="blog title"
+              class="sc-crPhKe QNeik"
+            >
+              the best blog
+            </span>
+          </div>
+          <div
+            aria-label="blog tags listed here"
+            class="sc-fuzrJS lieATZ"
+          >
+            <div
+              backgroundcolor="#8fbaf0"
+              class="sc-bdDrbm cXPPEs"
+              height="25px"
+              width="70px"
+            >
+              one
+            </div>
+            <div
+              backgroundcolor="#8fbaf0"
+              class="sc-bdDrbm cXPPEs"
+              height="25px"
+              width="70px"
+            >
+              two
+            </div>
+          </div>
+          <div
+            aria-label="blog description is here"
+            class="sc-qdPnm fmmVKh"
+          >
+            <p
+              class="sc-bjLqKs hcrKFR"
+            >
+              hello i am here
+              ...
+            </p>
+          </div>
+          <div
+            aria-label="blog reactions count is here"
+            class="sc-jrICsz hYBaNZ"
+          >
+            <div
+              class="sc-dYlqv cvZwVn"
+            >
+              <img
+                aria-label="icon to show reaction"
+                class="sc-iqkjcl jA-dEtT"
+                src="chat-icon.jpeg"
+              />
+              <span
+                aria-label="reaction text here"
+                class="sc-folRzf jAzsXY"
+              >
+                5
+              </span>
+            </div>
+            <div
+              aria-label="read more button"
+              backgroundcolor="#4792ef"
+              class="sc-gtcAbF dPqWXl"
+            >
+              Read More
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-gKkivs bgfSMQ"
+    >
+      <div
+        aria-label="card containing the blog data"
+        backgroundcolor="#f4f4f4"
+        class="sc-bdDrbm fvGOqo"
+        data-testid="Card_1"
+        height="200px"
+        padding="15px"
+        width="300px"
+      >
+        <div
+          class="sc-iCEALv dDRKGZ"
+        >
+          <span
+            aria-label="blog title"
+            class="sc-crPhKe QNeik"
+          >
+            the best blog
+          </span>
+        </div>
+        <div
+          aria-label="blog tags listed here"
+          class="sc-fuzrJS lieATZ"
+        >
+          <div
+            backgroundcolor="#8fbaf0"
+            class="sc-bdDrbm cXPPEs"
+            height="25px"
+            width="70px"
+          >
+            one
+          </div>
+          <div
+            backgroundcolor="#8fbaf0"
+            class="sc-bdDrbm cXPPEs"
+            height="25px"
+            width="70px"
+          >
+            two
+          </div>
+        </div>
+        <div
+          aria-label="blog description is here"
+          class="sc-qdPnm fmmVKh"
+        >
+          <p
+            class="sc-bjLqKs hcrKFR"
+          >
+            hello i am here
+            ...
+          </p>
+        </div>
+        <div
+          aria-label="blog reactions count is here"
+          class="sc-jrICsz hYBaNZ"
+        >
+          <div
+            class="sc-dYlqv cvZwVn"
+          >
+            <img
+              aria-label="icon to show reaction"
+              class="sc-iqkjcl jA-dEtT"
+              src="chat-icon.jpeg"
+            />
+            <span
+              aria-label="reaction text here"
+              class="sc-folRzf jAzsXY"
+            >
+              5
+            </span>
+          </div>
+          <div
+            aria-label="read more button"
+            backgroundcolor="#4792ef"
+            class="sc-gtcAbF dPqWXl"
+          >
+            Read More
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

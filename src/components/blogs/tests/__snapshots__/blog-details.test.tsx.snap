@@ -1,0 +1,232 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogDetails component renders BlogDetails component proper 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        aria-label="container with blog details"
+        class="sc-gKkivs bgfSMQ"
+      >
+        <div
+          backgroundcolor="#f4f4f4"
+          class="sc-bdDrbm hNBArv"
+          height="auto"
+          padding="15px"
+          width="1000px"
+        >
+          <div
+            class="sc-iCEALv dDRKGZ"
+          >
+            <span
+              aria-label="blog title here"
+              class="sc-crPhKe QNeik"
+            >
+              the best blog
+            </span>
+            <a
+              aria-label="link to go back"
+              class="linkStyle"
+              href="/"
+            >
+              &lt;- Go Back
+            </a>
+          </div>
+          <div
+            aria-label="authour name and blog description container"
+            class="sc-qdPnm fmmVKh"
+          >
+            <span
+              aria-label="authour name"
+              class="sc-fFCYnF cdMsrR"
+            >
+              Authour: 
+              test
+               
+              test name
+            </span>
+            <p
+              aria-label="authour name"
+              class="sc-bjLqKs hcrKFR"
+            >
+              hello i am here
+            </p>
+          </div>
+          <div
+            aria-label="comments static text and add new button container"
+            class="sc-jrICsz hYBaNZ"
+          >
+            <div
+              class="sc-dYlqv cvZwVn"
+            >
+              <span
+                aria-label="comments static text"
+                class="sc-folRzf jAzsXY"
+              >
+                Comments
+              </span>
+            </div>
+            <div
+              aria-label="Add new button"
+              backgroundcolor="#4792ef"
+              class="sc-gtcAbF dPqWXl"
+            >
+              Add New
+            </div>
+          </div>
+          <section
+            aria-label="Comments list and pagination container"
+            class="sc-kEbfvU kFcdHM"
+          >
+            <div
+              class="sc-hKVryf hYMQAi"
+              color="black"
+              height="20px"
+            >
+              No Comments available
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      aria-label="container with blog details"
+      class="sc-gKkivs bgfSMQ"
+    >
+      <div
+        backgroundcolor="#f4f4f4"
+        class="sc-bdDrbm hNBArv"
+        height="auto"
+        padding="15px"
+        width="1000px"
+      >
+        <div
+          class="sc-iCEALv dDRKGZ"
+        >
+          <span
+            aria-label="blog title here"
+            class="sc-crPhKe QNeik"
+          >
+            the best blog
+          </span>
+          <a
+            aria-label="link to go back"
+            class="linkStyle"
+            href="/"
+          >
+            &lt;- Go Back
+          </a>
+        </div>
+        <div
+          aria-label="authour name and blog description container"
+          class="sc-qdPnm fmmVKh"
+        >
+          <span
+            aria-label="authour name"
+            class="sc-fFCYnF cdMsrR"
+          >
+            Authour: 
+            test
+             
+            test name
+          </span>
+          <p
+            aria-label="authour name"
+            class="sc-bjLqKs hcrKFR"
+          >
+            hello i am here
+          </p>
+        </div>
+        <div
+          aria-label="comments static text and add new button container"
+          class="sc-jrICsz hYBaNZ"
+        >
+          <div
+            class="sc-dYlqv cvZwVn"
+          >
+            <span
+              aria-label="comments static text"
+              class="sc-folRzf jAzsXY"
+            >
+              Comments
+            </span>
+          </div>
+          <div
+            aria-label="Add new button"
+            backgroundcolor="#4792ef"
+            class="sc-gtcAbF dPqWXl"
+          >
+            Add New
+          </div>
+        </div>
+        <section
+          aria-label="Comments list and pagination container"
+          class="sc-kEbfvU kFcdHM"
+        >
+          <div
+            class="sc-hKVryf hYMQAi"
+            color="black"
+            height="20px"
+          >
+            No Comments available
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
