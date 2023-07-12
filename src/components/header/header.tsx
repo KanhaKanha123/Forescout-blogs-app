@@ -24,7 +24,7 @@ export const Header: FC = (): ReactElement => {
     };
 
     return <HeaderContainer area-label='app header is here'>
-        <HeaderTextWrapper>Blog Site</HeaderTextWrapper>
+        <HeaderTextWrapper area-label='Blog Site static text'>Blog Site</HeaderTextWrapper>
         <TextBoxWrapper>
             <TextBox data-testid='serach_text' area-label='this is serach a blog textbox' type='text'
                 placeholder='Search a blog...'

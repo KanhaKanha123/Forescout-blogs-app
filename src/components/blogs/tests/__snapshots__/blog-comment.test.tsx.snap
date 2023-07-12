@@ -10,7 +10,6 @@ Object {
         class="sc-jrICsz dOSEUl"
       >
         <div
-          aria-label="User name and user icon contaainer"
           class="sc-kEbfvU eijDqn"
         >
           <img
@@ -40,7 +39,6 @@ Object {
       class="sc-jrICsz dOSEUl"
     >
       <div
-        aria-label="User name and user icon contaainer"
         class="sc-kEbfvU eijDqn"
       >
         <img

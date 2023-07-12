@@ -16,7 +16,7 @@ export const Home: FC = (): ReactElement => {
 
     return <main area-label="main section to display all the blogs">
         <BlogsAndLPaginationWrapper>
-            <BlogsList area-label='all blogs are listed here' />
+            <BlogsList area-label='blogs list component' />
             {isShowPagination() && <PaginatedItems type='blogList' itemsPerPage={config.blogsPageLimit} />}
         </BlogsAndLPaginationWrapper>
     </main>

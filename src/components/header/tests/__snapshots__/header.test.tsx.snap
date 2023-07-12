@@ -10,6 +10,7 @@ Object {
         class="sc-bdDrbm cQqgcY"
       >
         <div
+          area-label="Blog Site static text"
           class="sc-gtcAbF hsqexS"
         >
           Blog Site
@@ -34,6 +35,7 @@ Object {
       class="sc-bdDrbm cQqgcY"
     >
       <div
+        area-label="Blog Site static text"
         class="sc-gtcAbF hsqexS"
       >
         Blog Site

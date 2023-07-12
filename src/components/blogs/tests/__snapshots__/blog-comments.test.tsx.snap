@@ -6,6 +6,7 @@ Object {
   "baseElement": <body>
     <div>
       <div
+        area-label="no comments display here"
         class="sc-hKVryf hYMQAi"
         color="black"
         height="20px"
@@ -16,6 +17,7 @@ Object {
   </body>,
   "container": <div>
     <div
+      area-label="no comments display here"
       class="sc-hKVryf hYMQAi"
       color="black"
       height="20px"

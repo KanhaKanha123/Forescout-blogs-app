@@ -64,11 +64,11 @@ export const BlogDetails: FC = (): ReactElement => {
                         </TitleTextWrapper>
                         <Link aria-label="link to go back" className="linkStyle" to="/">{`<- Go Back`}</Link>
                     </Header>
-                    <BodyContainer aria-label="authour name and blog description container">
+                    <BodyContainer>
                         <AuthourText aria-label="authour name">Authour: {userData?.firstName} {userData?.lastName}</AuthourText>
                         <BlogBody aria-label="authour name">{blog?.body}</BlogBody>
                     </BodyContainer>
-                    <CommentsTextAndButtonWrapper aria-label="comments static text and add new button container">
+                    <CommentsTextAndButtonWrapper>
                         <ReactionsContainer>
                             <Text aria-label="comments static text">
                                 Comments

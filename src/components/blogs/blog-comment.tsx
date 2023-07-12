@@ -15,7 +15,7 @@ export interface SingleBlogCommentTypes {
 export const BlogComment: FC<SingleBlogCommentTypes> = ({ comment }): ReactElement => {
 
     return <BlogCommentWrapper aria-label="Single comment container">
-        <UserNameWrapper aria-label="User name and user icon contaainer">
+        <UserNameWrapper>
             <Image aria-label="user icon" src={userImg}></Image>
             <Text aria-label="user name">{comment.user.username}</Text>
         </UserNameWrapper>

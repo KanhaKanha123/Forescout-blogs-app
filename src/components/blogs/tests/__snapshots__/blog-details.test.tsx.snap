@@ -34,7 +34,6 @@ Object {
             </a>
           </div>
           <div
-            aria-label="authour name and blog description container"
             class="sc-qdPnm fmmVKh"
           >
             <span
@@ -54,7 +53,6 @@ Object {
             </p>
           </div>
           <div
-            aria-label="comments static text and add new button container"
             class="sc-jrICsz hYBaNZ"
           >
             <div
@@ -80,6 +78,7 @@ Object {
             class="sc-kEbfvU kFcdHM"
           >
             <div
+              area-label="no comments display here"
               class="sc-hKVryf hYMQAi"
               color="black"
               height="20px"
@@ -121,7 +120,6 @@ Object {
           </a>
         </div>
         <div
-          aria-label="authour name and blog description container"
           class="sc-qdPnm fmmVKh"
         >
           <span
@@ -141,7 +139,6 @@ Object {
           </p>
         </div>
         <div
-          aria-label="comments static text and add new button container"
           class="sc-jrICsz hYBaNZ"
         >
           <div
@@ -167,6 +164,7 @@ Object {
           class="sc-kEbfvU kFcdHM"
         >
           <div
+            area-label="no comments display here"
             class="sc-hKVryf hYMQAi"
             color="black"
             height="20px"

@@ -21,6 +21,6 @@ export const BlogComments: FC<BlogCommentsTypes> = ({ blogId }): ReactElement =>
     const { comments } = useGetBlogComments(blogId);
 
     return (<Fragment>
-        {totalCountComments > 0 ? comments?.comments.map(comment => <BlogComment key={comment.id} comment={comment} />) : <EmptyOrError height="20px" color="black">No Comments available</EmptyOrError>}
+        {totalCountComments > 0 ? comments?.comments.map(comment => <BlogComment key={comment.id} comment={comment} />) : <EmptyOrError area-label="no comments display here" height="20px" color="black">No Comments available</EmptyOrError>}
     </Fragment>)
 };
